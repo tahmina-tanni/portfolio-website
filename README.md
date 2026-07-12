@@ -11,11 +11,7 @@ This project showcases my skills, projects, and contact information.
   <img src="" width="700">
 </p>
 
-## 🚀 Live Demo
 
-🔗 https://your-live-link.com
-
----
 
 ## Technologies Used
 
